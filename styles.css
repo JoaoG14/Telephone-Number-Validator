@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.container {
+  margin-top: 400px;
+  justify-content: center;
+  text-align: center;
+}
+
+#results-div {
+  margin-top: 20px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+}
